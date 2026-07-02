@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# SHHS 데이터 (재배포 제한 — 로컬에서만 사용)
+data/
